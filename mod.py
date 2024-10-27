@@ -67,7 +67,7 @@ def find_polygon(polygons, point):
     return "No matching polygon found."
 
 
-file_path = r"C:\Users\JACK\Desktop\gps-tracker\Atkins Golf Club3.kml"
+file_path = "Atkins Golf Club3.kml"
 hole_number = 1
 polygons = parse_kml(file_path, hole_number)
 #print(find_green_polygon_center(polygons))
