@@ -22,7 +22,7 @@ def submit_location():
     distance = data.get('distance')  # Acquisition distance
 
     # Use the function in mod.py to determine the coordinate distribution
-    polygons = mod.parse_kml(r"C:\Users\Jack\Desktop\gps-tracker\Atkins Golf Club3.kml", hole_number)
+    polygons = mod.parse_kml("Atkins Golf Club3.kml", hole_number)
     greencenter = mod.find_green_polygon_center(polygons)
     polygon_name = mod.find_polygon(polygons, (latitude, longitude))
     
