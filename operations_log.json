@@ -1,4 +1,26 @@
 
 
-{"holeNumber": 1, "shotNumber": 1, "latitude": 40.112888, "longitude": -88.234667, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T02:39:06.802Z"}
+{"holeNumber": 1, "shotNumber": 1, "latitude": 40.112888, "longitude": -88.234671, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T03:55:17.239Z"}
+
+{"holeNumber": 1, "shotNumber": 2, "latitude": 40.112888, "longitude": -88.234671, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T03:55:33.862Z"}
+
+{"holeNumber": 1, "shotNumber": 3, "shotPenalty": "yes", "timestamp": "2024-10-27T03:55:44.649Z"}
+
+{"holeNumber": 1, "shotNumber": 4, "latitude": 40.112888, "longitude": -88.234671, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T03:55:54.946Z"}
+
+{"holeNumber": 1, "shotNumber": 1, "latitude": 40.112888, "longitude": -88.234671, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T03:56:30.029Z"}
+
+{"holeNumber": 1, "shotNumber": 2, "latitude": 40.112888, "longitude": -88.234671, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T03:56:33.371Z"}
+
+{"holeNumber": 1, "shotNumber": 1, "latitude": 40.112581, "longitude": -88.235497, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T04:01:29.165Z"}
+
+{"holeNumber": 1, "shotNumber": 2, "latitude": 40.112581, "longitude": -88.235497, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T04:01:37.849Z"}
+
+{"holeNumber": 1, "shotNumber": 1, "latitude": 40.112581, "longitude": -88.235497, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T04:02:08.113Z"}
+
+{"holeNumber": 1, "shotNumber": 2, "latitude": 40.112581, "longitude": -88.235497, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T04:02:10.748Z"}
+
+{"holeNumber": 1, "shotNumber": 3, "latitude": 40.112581, "longitude": -88.235497, "distance": "0.00", "polygon": "No matching polygon found.", "timestamp": "2024-10-27T04:02:12.891Z"}
+
+{"holeNumber": 1, "shotNumber": 4, "shotPenalty": "yes", "timestamp": "2024-10-27T04:02:16.967Z"}
 

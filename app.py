@@ -1,11 +1,14 @@
 # app.py
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify,render_template
 from flask_cors import CORS
 import mod  # Importing mod modules
 import json
 
 app = Flask(__name__)
 CORS(app)  # Enable CORS for all routes
+@app.route("/")
+def index():
+    return render_template("home.html")
 
 # Route to submit location
 @app.route('/submit-location', methods=['POST'])

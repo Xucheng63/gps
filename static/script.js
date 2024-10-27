@@ -165,7 +165,7 @@ function showError(error) {
 }
 
 async function sendLocationToServer(lat, lng, holeNumber, currentTime, clickCount, currentDistance) {
-    fetch('http://localhost:5000/submit-location', {
+    fetch("/submit-location", {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
@@ -215,7 +215,7 @@ async function sendLocationToServer(lat, lng, holeNumber, currentTime, clickCoun
 }
 //Fairway
 function sendShotPenaltyToServer(holeNumber, shotNumber, currentTime) {
-    fetch('http://localhost:5000/submit-shot-penalty', {
+    fetch("/submit-shot-penalty", {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'
